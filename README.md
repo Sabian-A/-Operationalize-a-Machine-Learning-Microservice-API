@@ -2,9 +2,6 @@
 [![Sabian-A](https://circleci.com/gh/Sabian-A/-Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](<LINK>)
 
 
-
-
->>>>>>> 41d6e2d041b094facccd09671f14ec82b6556596
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
