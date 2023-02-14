@@ -1,5 +1,5 @@
-<include a CircleCI status badge, here>
-
+# Status:
+[![Sabian-A](https://circleci.com/gh/Sabian-A/-Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](<LINK>)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
